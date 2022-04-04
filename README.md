@@ -1,6 +1,7 @@
-<img align="left" alt="Vladimir-Grinko | img" height="170px" width="850px" src="https://github.com/Vladimir-Grinko/Vladimir-Grinko/blob/main/assets/header.jpeg" />
+<img align="left" alt="Vladimir-Grinko | img" height="250" width="850px" src="https://github.com/Vladimir-Grinko/Vladimir-Grinko/blob/main/assets/header.jpeg" />
 
 <br />
+### 
 
 ### Привет! Меня зовут Владимир! Я JavaScript Frontend разработчик.
 
