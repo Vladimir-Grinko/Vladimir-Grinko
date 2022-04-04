@@ -9,8 +9,8 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-090909?style=for-the-badge&logo=Bootstrap&logoColor=47C5FB)
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=47C5FB)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=green)
-![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=HTML&logoColor=orange)
-![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=CSS&logoColor=informational)
-![NodeJs](https://img.shields.io/badge/-NodeJs-090909?style=for-the-badge&logo=NodeJs&logoColor=success)
+![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html&logoColor=orange)
+![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=informational)
+![Node.Js](https://img.shields.io/badge/-Node.Js-090909?style=for-the-badge&logo=Node.js&logoColor=success)
 
 Follow Me
