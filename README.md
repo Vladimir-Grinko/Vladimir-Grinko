@@ -1,6 +1,6 @@
-[<img align="left" alt="Vladimir-Grinko | img" height="80px" src="https://github.com/Vladimir-Grinko/Vladimir-Grinko/blob/main/assets/header.jpeg" />]
+<img align="left" alt="Vladimir-Grinko | img" height="100px" width="850px" src="https://github.com/Vladimir-Grinko/Vladimir-Grinko/blob/main/assets/header.jpeg" />
 
-## Привет! Меня зовут Владимир! Я JavaScript Frontend разработчик.
+### Привет! Меня зовут Владимир! Я JavaScript Frontend разработчик.
 
 <br />
 
@@ -23,7 +23,7 @@
 [<img align="left" alt="Vladimir-Grinko | VK" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="Vladimir-Grinko | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Vladimir-Grinko | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vladimir-Grinko | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />]![vladimir.grinko055@gmail.com]
+<img align="left" alt="Vladimir-Grinko | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />vladimir.grinko055@gmail.com
 
 <br />
 <br />
