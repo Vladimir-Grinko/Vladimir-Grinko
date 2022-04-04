@@ -1,11 +1,10 @@
 <img align="left" alt="Vladimir-Grinko | img" height="250" width="850px" src="https://github.com/Vladimir-Grinko/Vladimir-Grinko/blob/main/assets/header.jpeg" />
 
-<br />
-### 
+<hr />
 
 ### Привет! Меня зовут Владимир! Я JavaScript Frontend разработчик.
 
-<br />
+<hr />
 
 ### Languages and Tools
 
@@ -19,7 +18,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css&logoColor=informational)
 ![Node.Js](https://img.shields.io/badge/-Node.Js-090909?style=for-the-badge&logo=Node.js&logoColor=success)
 
-<br />
+<hr />
 
 ### Follow Me
 
@@ -28,7 +27,9 @@
 [<img align="left" alt="Vladimir-Grinko | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <img align="left" alt="Vladimir-Grinko | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />vladimir.grinko055@gmail.com
 
-<br />
+<hr />
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladimir-Grinko&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
 
 [vk]: https://vk.com/steel_afterman
