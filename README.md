@@ -4,7 +4,7 @@
 
 ### Привет!
 
-### Меня зовут Владимир! Я JavaScript Frontend разработчик.
+### Меня зовут Владимир! Я Frontend разработчик.
 
 <hr />
 
@@ -27,7 +27,7 @@
 [<img align="left" alt="Vladimir-Grinko | VK" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="Vladimir-Grinko | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Vladimir-Grinko | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<img align="left" alt="Vladimir-Grinko | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />vladimir.grinko055@gmail.com
+[<img align="left" alt="Vladimir-Grinko | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <hr />
 
@@ -36,4 +36,7 @@
 
 [vk]: https://vk.com/steel_afterman
 [instagram]: https://instagram.com/vovan_officiall
-[linkedin]: https://www.linkedin.com/mwlite/in/%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%B3%D1%80%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE-b5834b20a
+[linkedin]: https://www.linkedin.com/mwlite/in/
+[gmail]: mailto:vladimir.grinko055@gmail.com
+
+%D0%B2%D0%BB%D0%B0%D0%B4%D0%B8%D0%BC%D0%B8%D1%80-%D0%B3%D1%80%D0%B8%D0%BD%D1%8C%D0%BA%D0%BE-b5834b20a
