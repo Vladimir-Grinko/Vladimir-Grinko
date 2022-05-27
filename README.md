@@ -30,7 +30,9 @@
 [<img align="left" alt="Vladimir-Grinko | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 [<img align="left" alt="Vladimir-Grinko | Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-<hr />
+
+
+---
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladimir-Grinko&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <br />
