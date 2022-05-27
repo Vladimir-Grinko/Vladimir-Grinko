@@ -27,14 +27,14 @@
 [<img align="left" alt="Vladimir-Grinko | VK" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
 [<img align="left" alt="Vladimir-Grinko | Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Vladimir-Grinko | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Vladimir-Grinko | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-[<img align="left" alt="Vladimir-Grinko | Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]                               
+[<img align="left" alt="Vladimir-Grinko | Gmail" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail][<img align="left" alt="Vladimir-Grinko | Telegram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
-<hr />     
+<hr />
 
-### Статистика  
+### Статистика
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vladimir-Grinko&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 
 [vk]: https://vk.com/steel_afterman
